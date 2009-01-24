@@ -1,0 +1,2 @@
+content	fitnesse-formatter content/
+overlay	chrome://browser/content/browser.xul chrome://fitnesse-formatter/content/fitnesse-formatter-overlay.xul
